@@ -1,0 +1,7 @@
+PyQt5
+PyQt5-stubs
+python-socketio[client]
+requests
+injector
+Events
+apscheduler
